@@ -661,7 +661,15 @@
     "year": 2014,
     "artist": "선미",
     "writer": "용감한 형제",
-    "sentence": "그대여 보름달이 뜨는 날, 날 보러와요\"\r\n84,가시나,2017,선미,\"TEDDY, 선미, Joe Rhee, 24"
+    "sentence": "그대여 보름달이 뜨는 날, 날 보러와요"
+  },
+  {
+    "ID": 84,
+    "title": "가시나",
+    "year": 2017,
+    "artist": "선미",
+    "writer": "TEDDY, 선미, Joe Rhee, 24",
+    "sentence": "왜 예쁜 날 두고 가시나"
   },
   {
     "ID": 85,
@@ -685,7 +693,39 @@
     "year": 2007,
     "artist": "소녀시대 (GIRLS' GENERATION)",
     "writer": "LeeOn(이재명)",
-    "sentence": "그대와 발을 맞추며 걷고, 너의 두 손을 잡고\"\r\n88,다시 만난 세계 (Into The New World),2007,소녀시대 (GIRLS' GENERATION),김정배,사랑해 널 이 느낌 이대로 그려왔던 헤매임의 끝\r\n89,소녀시대 (Girls' Generation),2007,소녀시대 (GIRLS' GENERATION),이승철,어리다고 놀리지 말아요 수줍어서 말도 못하고\r\n90,힘 내! (Way To Go),2009,소녀시대 (GIRLS' GENERATION),김정배,하지만 힘을 내 이만큼 왔잖아 이것쯤은 정말 별거 아냐 세상을 뒤집자\r\n91,소원을 말해봐 (Genie),2010,소녀시대 (GIRLS' GENERATION),\"Anne Judith Wik, Nermin Harambasic, Robin Jenssen, Ronny Svendsen, 유영진"
+    "sentence": "그대와 발을 맞추며 걷고, 너의 두 손을 잡고"
+  },
+  {
+    "ID": 88,
+    "title": "다시 만난 세계 (Into The New World)",
+    "year": 2007,
+    "artist": "소녀시대 (GIRLS' GENERATION)",
+    "writer": "김정배",
+    "sentence": "사랑해 널 이 느낌 이대로 그려왔던 헤매임의 끝"
+  },
+  {
+    "ID": 89,
+    "title": "소녀시대 (Girls' Generation)",
+    "year": 2007,
+    "artist": "소녀시대 (GIRLS' GENERATION)",
+    "writer": "이승철",
+    "sentence": "어리다고 놀리지 말아요 수줍어서 말도 못하고"
+  },
+  {
+    "ID": 90,
+    "title": "힘 내! (Way To Go)",
+    "year": 2009,
+    "artist": "소녀시대 (GIRLS' GENERATION)",
+    "writer": "김정배",
+    "sentence": "하지만 힘을 내 이만큼 왔잖아 이것쯤은 정말 별거 아냐 세상을 뒤집자"
+  },
+  {
+    "ID": 91,
+    "title": "소원을 말해봐 (Genie)",
+    "year": 2010,
+    "artist": "소녀시대 (GIRLS' GENERATION)",
+    "writer": "Anne Judith Wik, Nermin Harambasic, Robin Jenssen, Ronny Svendsen, 유영진",
+    "sentence": "그래요 난 널 사랑해 언제나 믿어 꿈도 열정도 다 주고 싶어"
   },
   {
     "ID": 92,
@@ -701,7 +741,15 @@
     "year": 2013,
     "artist": "소녀시대 (GIRLS' GENERATION)",
     "writer": "유영진",
-    "sentence": "나, 깜짝! 멘붕이야! 그 사람은 내 민 낯이 궁금하대\"\r\n94,Lion Heart,2015,소녀시대 (GIRLS' GENERATION),\"1월 8일, 최소영(Jam Factory), Joy Factory"
+    "sentence": "나, 깜짝! 멘붕이야! 그 사람은 내 민 낯이 궁금하대"
+  },
+  {
+    "ID": 94,
+    "title": "Lion Heart",
+    "year": 2015,
+    "artist": "소녀시대 (GIRLS' GENERATION)",
+    "writer": "1월 8일, 최소영(Jam Factory), Joy Factory",
+    "sentence": "수백 번 밀어내야 했는데 수천 번 널 떠나야 했는데"
   },
   {
     "ID": 95,
@@ -861,7 +909,15 @@
     "year": 2019,
     "artist": "투모로우바이투게더",
     "writer": "Slow Rabbit, Supreme Boi, Melanie Joy Fontana, Michel 'Lindgren' Schulz, Andreas Carlsson, 방시혁, Pauline Skött, Peter St. James",
-    "sentence": "그럴 땐, 눈물이 날 땐 내 손을 꽉 잡아, 도망갈까?\"\r\n115,디어 스푸트니크,2021,투모로우바이투게더,\"EL CAPITXN, 휴닝카이, 방시혁, Andy Love, danke, Gabriel Brandes, Matt Thomson, Max Lynedoch Graham, Ronnie Icon, 태현, 김선오, 1월 8일, 김보은(Jam factory), 송재경"
+    "sentence": "그럴 땐, 눈물이 날 땐 내 손을 꽉 잡아, 도망갈까?"
+  },
+  {
+    "ID": 115,
+    "title": "디어 스푸트니크",
+    "year": 2021,
+    "artist": "투모로우바이투게더",
+    "writer": "EL CAPITXN, 휴닝카이, 방시혁, Andy Love, danke, Gabriel Brandes, Matt Thomson, Max Lynedoch Graham, Ronnie Icon, 태현, 김선오, 1월 8일, 김보은(Jam factory), 송재경",
+    "sentence": "수없이 우주를 돌아 마침내 겹친 궤도야 기적같이 만난 거야"
   },
   {
     "ID": 116,
